@@ -407,6 +407,7 @@ a.icon {
   background: #ffffff;
   border: 10px solid #f9f9f9;
   padding: 62px 20px 62px 20px;
+	box-shadow: 6px 6px 6px grey;
 }
 
 .header-one .header-thumb,
@@ -842,6 +843,7 @@ footer {
   .header-five {
     min-height: 380px;
 	padding-top: 80px !important;
+
   }
 
   #about .col-md-4,
