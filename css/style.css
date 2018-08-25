@@ -574,10 +574,18 @@ a.icon {
 
 #single-project .project-info {
   padding-bottom: 10px;
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+
 }
 
 #single-project img {
   padding-top: 14px;
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+
 }
 
 /* about section styles
