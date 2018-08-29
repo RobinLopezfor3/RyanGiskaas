@@ -436,13 +436,13 @@ a.icon {
   background: url('../images/header-bg2.jpg') no-repeat;
 }
 .header-three {
-  background: url('../images/header-three-bg.jpg') no-repeat;
+  background: url('../images/header-bg3.jpg') no-repeat;
 }
 .header-four {
-  background: url('../images/header-four-bg.jpg') no-repeat;
+  background: url('../images/header-bg.jpg') no-repeat;
 }
 .header-five {
-  background: url('../images/header-five-bg.jpg') no-repeat;
+  background: url('../images/header-bg.jpg') no-repeat;
 }
 
 /* Portfolio section styles
@@ -582,6 +582,30 @@ a.icon {
 }
 
 #single-project img {
+  padding-top: 14px;
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+
+
+}
+
+/* second project section styles
+/* ========================================== */
+#second-project {
+  padding-top: 4rem;
+  padding-bottom: 6rem;
+}
+
+#second-project .project-info {
+  padding-bottom: 10px;
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+
+}
+
+#second-project img {
   padding-top: 14px;
 	display: block;
 	margin-left:auto;
