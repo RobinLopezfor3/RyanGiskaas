@@ -578,7 +578,9 @@ a.icon {
     display: block;
 }
 
-
+.img-responsive2 {
+	border:2px solid #021a40;
+}
 
 
 /* single project section styles
