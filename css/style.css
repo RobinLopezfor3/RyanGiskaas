@@ -414,13 +414,16 @@ a.icon {
 .header-two .header-thumb,
 .header-three .header-thumb,
 .header-four .header-thumb,
-.header-five .header-thumb {
+.header-five .header-thumb,
+.header-six .header-thumb,
+.header-about .header-thumb,
+.header-contact .header-thumb,  {
   padding: 32px 20px 32px 20px !important;
 }
 
 .header-one, .header-two,
 .header-three, .header-four,
-.header-five {
+.header-five, .header-six, .header-about, .header-contact {
   height: 42vh !important;
   min-height: 420px;
   padding-top: 120px !important;
@@ -439,10 +442,19 @@ a.icon {
   background: url('../images/header-bg3.jpg') no-repeat;
 }
 .header-four {
-  background: url('../images/header-bg.jpg') no-repeat;
+  background: url('../images/header-bg4.jpg') no-repeat;
 }
 .header-five {
-  background: url('../images/header-bg.jpg') no-repeat;
+  background: url('../images/header-bg5.jpg') no-repeat;
+}
+.header-six {
+  background: url('../images/header-bg6.jpg') no-repeat;
+}
+.header-contact {
+  background: url('../images/header-contact.jpg') no-repeat;
+}
+.header-about {
+  background: url('../images/header-about.jpg') no-repeat;
 }
 
 /* Portfolio section styles
@@ -566,6 +578,9 @@ a.icon {
     display: block;
 }
 
+
+
+
 /* single project section styles
 /* ========================================== */
 #single-project {
@@ -613,6 +628,32 @@ a.icon {
 
 
 }
+
+/* third project section styles
+/* ========================================== */
+#third-project {
+  padding-top: 4rem;
+  padding-bottom: 6rem;
+}
+
+#third-project .project-info {
+  padding-bottom: 10px;
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+
+}
+
+#third-project img {
+  padding-top: 14px;
+	display: inline-block;
+	margin-left:auto;
+	margin-right: auto;
+
+
+
+}
+
 
 /* about section styles
 /* ========================================== */
