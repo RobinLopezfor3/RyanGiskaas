@@ -649,9 +649,10 @@ a.icon {
 	display: inline-block;
 	margin-left:auto;
 	margin-right: auto;
+}
 
-
-
+#third-project h1 {
+	margin-top: 4rem;
 }
 
 
@@ -906,7 +907,7 @@ footer {
 
   .header-one, .header-two,
   .header-three, .header-four,
-  .header-five {
+  .header-five, .header-six, .header-contact, .header-about {
     min-height: 380px;
 	padding-top: 80px !important;
 
