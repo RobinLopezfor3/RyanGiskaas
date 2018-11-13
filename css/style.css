@@ -436,7 +436,7 @@ a.icon {
   padding-top: 150px !important;
 }
 .header-two {
-  background: url('../images/header-bg2.jpg') no-repeat;
+  background: url('../images/bigpink.jpg') no-repeat;
 }
 .header-three {
   background: url('../images/header-bg3.jpg') no-repeat;
@@ -445,10 +445,10 @@ a.icon {
   background: url('../images/header-bg4.jpg') no-repeat;
 }
 .header-five {
-  background: url('../images/header-bg5.jpg') no-repeat;
+  background: url('../images/header-five.jpg') no-repeat;
 }
 .header-six {
-  background: url('../images/header-bg6.jpg') no-repeat;
+  background: url('../images/poppy.jpg') no-repeat;
 }
 .header-contact {
   background: url('../images/header-contact.jpg') no-repeat;
@@ -586,6 +586,12 @@ a.icon {
 
 .img-responsive3 {
 	object-fit: contain;
+
+}
+
+.img-responsive4 {
+	width: 400px;
+	height: 400px;
 
 }
 /* single project section styles
